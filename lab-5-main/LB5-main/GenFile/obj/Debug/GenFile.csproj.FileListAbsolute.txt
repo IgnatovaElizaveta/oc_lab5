@@ -1,0 +1,7 @@
+E:\Projects\Do\Pract5\GenFile\bin\Debug\GenFile.exe.config
+E:\Projects\Do\Pract5\GenFile\bin\Debug\GenFile.exe
+E:\Projects\Do\Pract5\GenFile\bin\Debug\GenFile.pdb
+E:\Projects\Do\Pract5\GenFile\obj\Debug\GenFile.csproj.CoreCompileInputs.cache
+E:\Projects\Do\Pract5\GenFile\obj\Debug\GenFile.exe
+E:\Projects\Do\Pract5\GenFile\obj\Debug\GenFile.pdb
+E:\Projects\Do\Pract5\GenFile\obj\Debug\GenFile.csprojAssemblyReference.cache

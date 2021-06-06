@@ -1,0 +1,21 @@
+E:\Projects\Do\Pract5\Pract5\bin\Debug\Pract5.exe.config
+E:\Projects\Do\Pract5\Pract5\bin\Debug\Pract5.exe
+E:\Projects\Do\Pract5\Pract5\bin\Debug\Pract5.pdb
+E:\Projects\Do\Pract5\Pract5\obj\Debug\Pract5.csprojAssemblyReference.cache
+E:\Projects\Do\Pract5\Pract5\obj\Debug\Pract5.csproj.CoreCompileInputs.cache
+E:\Projects\Do\Pract5\Pract5\obj\Debug\Pract5.exe
+E:\Projects\Do\Pract5\Pract5\obj\Debug\Pract5.pdb
+D:\Users\My ASUS\Documents\GitHub\Operating-system\Laba-5\Pract5\Pract5\bin\Debug\Pract5.exe.config
+D:\Users\My ASUS\Documents\GitHub\Operating-system\Laba-5\Pract5\Pract5\bin\Debug\Pract5.exe
+D:\Users\My ASUS\Documents\GitHub\Operating-system\Laba-5\Pract5\Pract5\bin\Debug\Pract5.pdb
+D:\Users\My ASUS\Documents\GitHub\Operating-system\Laba-5\Pract5\Pract5\obj\Debug\Pract5.csprojAssemblyReference.cache
+D:\Users\My ASUS\Documents\GitHub\Operating-system\Laba-5\Pract5\Pract5\obj\Debug\Pract5.csproj.CoreCompileInputs.cache
+D:\Users\My ASUS\Documents\GitHub\Operating-system\Laba-5\Pract5\Pract5\obj\Debug\Pract5.exe
+D:\Users\My ASUS\Documents\GitHub\Operating-system\Laba-5\Pract5\Pract5\obj\Debug\Pract5.pdb
+C:\Users\ocher\OneDrive\Рабочий стол\Laba-5\LB5-main\Pract5\bin\Debug\Pract5.exe.config
+C:\Users\ocher\OneDrive\Рабочий стол\Laba-5\LB5-main\Pract5\bin\Debug\Pract5.exe
+C:\Users\ocher\OneDrive\Рабочий стол\Laba-5\LB5-main\Pract5\bin\Debug\Pract5.pdb
+C:\Users\ocher\OneDrive\Рабочий стол\Laba-5\LB5-main\Pract5\obj\Debug\Pract5.csprojAssemblyReference.cache
+C:\Users\ocher\OneDrive\Рабочий стол\Laba-5\LB5-main\Pract5\obj\Debug\Pract5.csproj.CoreCompileInputs.cache
+C:\Users\ocher\OneDrive\Рабочий стол\Laba-5\LB5-main\Pract5\obj\Debug\Pract5.exe
+C:\Users\ocher\OneDrive\Рабочий стол\Laba-5\LB5-main\Pract5\obj\Debug\Pract5.pdb
